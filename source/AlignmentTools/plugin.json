@@ -1,0 +1,8 @@
+{
+  "Id": "6fadb233-713e-4eac-a520-54168b8dd40d",
+  "Version": "0.2.7.0",
+  "Description": "图标菜单和浮动对齐面板，支持九种对齐与分布。",
+  "Folder": "AlignmentTools",
+  "Title": "工程对齐",
+  "Assembly": "AlignmentTools"
+}

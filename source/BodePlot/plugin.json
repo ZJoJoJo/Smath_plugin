@@ -1,0 +1,8 @@
+{
+  "Id": "62af596c-6139-41d9-a649-af38abe56e5c",
+  "Version": "0.2.7.0",
+  "Description": "幅频相频曲线、联动游标、对数坐标、dB 与相位展开。",
+  "Folder": "BodePlot",
+  "Title": "交互波特图",
+  "Assembly": "BodePlot"
+}

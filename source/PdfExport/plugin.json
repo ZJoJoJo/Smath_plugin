@@ -1,0 +1,8 @@
+{
+  "Id": "d50c6cd7-3246-47f0-806f-b2adc684e8ef",
+  "Version": "0.2.7.0",
+  "Description": "通过公开区域绘制接口，独立分页输出高清 PDF。",
+  "Folder": "PdfExport",
+  "Title": "计算书 PDF 导出",
+  "Assembly": "WorksheetPdf"
+}

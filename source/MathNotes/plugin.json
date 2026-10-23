@@ -1,0 +1,8 @@
+{
+  "Id": "b47c8463-8025-4550-9c6f-b9f0df2f3a32",
+  "Version": "0.2.7.0",
+  "Description": "中文与离线 KaTeX 公式备注，不参与变量求值。",
+  "Folder": "MathNotes",
+  "Title": "中文公式备注",
+  "Assembly": "MathNotes"
+}
